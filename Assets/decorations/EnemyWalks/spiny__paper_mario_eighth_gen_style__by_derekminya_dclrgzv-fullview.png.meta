@@ -1,0 +1,664 @@
+fileFormatVersion: 2
+guid: 119e61877c449ba4f8cfe7a76cf69fbe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 640
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1071160b730eb604bb46bd27364d9659
+      internalID: 233520086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 639
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d320aebfda1c9e429f1a80ea166faab
+      internalID: 1339196494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d81f5cf62159349863b24e2094dc21
+      internalID: -1753171034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 641
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d848e8f0d68adb4a9f34ae568fb49e6
+      internalID: -1828765460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 640
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb92cb6196304b4b966314ff7a40f2d
+      internalID: 1868854976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 640
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c046ab3837ace284697783456f092206
+      internalID: 58689479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 640
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f544cfbcc7344a4e956f132201147a0
+      internalID: -2033573360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 416
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf6cc6253afea941bebfbbfffcd3dc3
+      internalID: -273230250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 416
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd1404d80ba53f418841b6376e5f52e
+      internalID: -2084199323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 416
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7896427f590c5b14491e2352d6681b8e
+      internalID: -2020017129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 417
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e10e61be5c636a4c93dbd9e6c473540
+      internalID: 2102142665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 416
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5e21454aebc4b4b8ab4fc102be24b8
+      internalID: -258720275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 416
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c780cb27e9edf64b86cf85a0538b081
+      internalID: 968557468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 416
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f7a76a5e7bcf46b2c70381edab0e1
+      internalID: -1577528908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7967857ac82644a9658697fe551ba
+      internalID: 506125554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_57
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 193
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f107078a7e937f4c9437856661dc3f9
+      internalID: 1143552785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 193
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb63174ad9da73c4dba2c20ba673395f
+      internalID: -395597392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_59
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 194
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b2b5e0a93897546bbbb4507b7c220b
+      internalID: -424293953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_60
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 193
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092bc8c59ef46db4488e94d8e2986eb7
+      internalID: -1842994365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_61
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 193
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46d48ce6f5ee864d845ae16ebcdbf57
+      internalID: -845231061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_62
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 193
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b33076b669c8944bc8de360ee9ccb7
+      internalID: 2190102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_0: -619889730
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_1: 233520086
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_10: 1504602296
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_11: -567172030
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_12: 604646342
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_13: -2102711205
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_14: -1993371232
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_15: -113930504
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_16: 1494180405
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_17: 975256598
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_18: 121943429
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_19: 1973686091
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_2: 1339196494
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_20: -1610305043
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_21: -899347968
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_22: -990206306
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_23: -1925005325
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_24: -257397949
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_25: -661053175
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_26: 1972588367
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_27: -779805545
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_28: 701505340
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_29: -273230250
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_3: -1753171034
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_30: -2084199323
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_31: -2020017129
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_32: 2102142665
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_33: -258720275
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_34: 968557468
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_35: -1577528908
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_36: -1692747451
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_37: -1244513517
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_38: -791715155
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_39: 516176721
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_4: -1828765460
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_40: 2038103803
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_41: 1458021144
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_42: -281779329
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_43: 195149586
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_44: -722718591
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_45: 1156070846
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_46: -850888903
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_47: 945366796
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_48: 1121933546
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_49: 203683330
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_5: 1868854976
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_50: 1954046510
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_51: 438007461
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_52: -552868917
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_53: 1105365315
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_54: 802961215
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_55: -745951693
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_56: 506125554
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_57: 1143552785
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_58: -395597392
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_59: -424293953
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_6: 58689479
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_60: -1842994365
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_61: -845231061
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_62: 2190102
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_63: 1159196478
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_64: 1261109490
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_65: 1335752097
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_66: -1000343029
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_67: -1250804388
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_68: 52090620
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_69: -1210856713
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_7: -2033573360
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_70: 1216699667
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_71: -1671700861
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_72: 798813538
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_73: -1705981240
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_74: -1663868910
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_75: 1141039185
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_76: -1550617892
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_77: 87068107
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_78: -684669602
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_79: -2094076185
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_8: 545182654
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_80: 655239083
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_81: 1629484286
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_82: 1131062063
+      spiny__paper_mario_eighth_gen_style__by_derekminya_dclrgzv-fullview_9: -1196285473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

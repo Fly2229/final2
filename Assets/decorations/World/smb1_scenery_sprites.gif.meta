@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: ea3ba1058836528409f85b309bfee72f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 909
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afc8bc3d39ca6d478e67584f25612f1
+      internalID: 1867595871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 909
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce6095b9950ca14885b7c4bfc1ae714
+      internalID: -2088682005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 909
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8989722f1247646824db0390b78256
+      internalID: -2108311587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 909
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aed2db768702d641b8909b50ac97bfa
+      internalID: 1326076392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 856
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41aa52c672ef2c488314da60baee5a7
+      internalID: -772477038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 856
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496474f862f3a84faf5fe6b15a2e3fa
+      internalID: -1490032917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 856
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1713451b35fd54381e07cf7596aedd
+      internalID: 523511743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 856
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a5604a2ce9f547bf8b2614d7f717e
+      internalID: 1171831625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 856
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaac3dd961d5a146a999ee7f45babcb
+      internalID: -737503766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 856
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1762fe37437159e4b9d29efcf4702713
+      internalID: 2128831449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 856
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d56321c1d21f4d44ad1b067b2832d2b
+      internalID: 373436661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 856
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39293b4443f48944cbe3b005ab60f08a
+      internalID: -1037674715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 723
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7afab00059de44f957b659baf8d416
+      internalID: -319485408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 723
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f0d672ac78864e8b1e5be8b64d1a0
+      internalID: 1542862404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 766
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe88d23129ee3a4995895f4ed0be7d5
+      internalID: 73357773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 723
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c7e293d4d1b04da1505fc0b2bbb0c
+      internalID: 1670345122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 632
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fdc47c9b462f34ea6622752b769eaa
+      internalID: 2023450089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 632
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfdfcceb113466458b048d8ba29757d
+      internalID: 1753356973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 632
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e120fd817b4e8234cb4374b277d538be
+      internalID: -972151110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 500
+        width: 62
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d7317dfc17f1498a1aeb48a4d6090
+      internalID: -1512883144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 500
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0205cbf8d896e4d992c652b0d13a4d
+      internalID: 1144283160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 500
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3299e46b2d1e9df47a204dff97484479
+      internalID: -351232697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 500
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b7a7b05c7be5b4a9dee8f828118dfa
+      internalID: -382647302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 500
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451798c8a788ae449b4ada0007e2b250
+      internalID: -882042909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 364
+        width: 62
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6743d0d2b4e1a74f8902ae43526513e
+      internalID: -1992297396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34db2f4946085bd44a135f194f9fe4e1
+      internalID: 871466195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 364
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6e79adf46068b4c8ddd245c52fdb90
+      internalID: 1744673845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 364
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868623b5e0914854b8b9ddeafce40b15
+      internalID: 473738254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 364
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66629830112776469d745fe58b18a44
+      internalID: 764223026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 187
+        width: 23
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025000b98706a0c43bb6456f43f9fdd1
+      internalID: -1503644549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 187
+        width: 24
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df694cb808b39e4895c04f3c163902c
+      internalID: -1866899822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 187
+        width: 24
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19f77bd4bace146b79c942839b041d
+      internalID: -1891184525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 187
+        width: 24
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972ff97d07af898449ed5bc1b72fd5dd
+      internalID: -519746822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 187
+        width: 24
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a020c246d0551944ea5629e4b32e2e97
+      internalID: -707434702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6
+        width: 148
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0777c015e00934d898b3cf42f0d178
+      internalID: 511726668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98473a739ae071249b06ddd473782060
+      internalID: 691616038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smb1_scenery_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 723
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c8b09802c554f4ea61970c51347240
+      internalID: -1590919531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      smb1_scenery_sprites_0: 1867595871
+      smb1_scenery_sprites_1: -2088682005
+      smb1_scenery_sprites_10: 373436661
+      smb1_scenery_sprites_11: -1037674715
+      smb1_scenery_sprites_12: -319485408
+      smb1_scenery_sprites_13: 1542862404
+      smb1_scenery_sprites_14: 73357773
+      smb1_scenery_sprites_15: -1590919531
+      smb1_scenery_sprites_16: 1670345122
+      smb1_scenery_sprites_17: 2023450089
+      smb1_scenery_sprites_18: 1753356973
+      smb1_scenery_sprites_19: -972151110
+      smb1_scenery_sprites_2: -2108311587
+      smb1_scenery_sprites_20: -1512883144
+      smb1_scenery_sprites_21: 1144283160
+      smb1_scenery_sprites_22: -351232697
+      smb1_scenery_sprites_23: -382647302
+      smb1_scenery_sprites_24: -882042909
+      smb1_scenery_sprites_25: -1992297396
+      smb1_scenery_sprites_26: 871466195
+      smb1_scenery_sprites_27: 1744673845
+      smb1_scenery_sprites_28: 473738254
+      smb1_scenery_sprites_29: 764223026
+      smb1_scenery_sprites_3: 1326076392
+      smb1_scenery_sprites_30: -1503644549
+      smb1_scenery_sprites_31: -1866899822
+      smb1_scenery_sprites_32: -1891184525
+      smb1_scenery_sprites_33: -519746822
+      smb1_scenery_sprites_34: -707434702
+      smb1_scenery_sprites_35: 511726668
+      smb1_scenery_sprites_36: 691616038
+      smb1_scenery_sprites_37: -2097576823
+      smb1_scenery_sprites_4: -772477038
+      smb1_scenery_sprites_5: -1490032917
+      smb1_scenery_sprites_6: 523511743
+      smb1_scenery_sprites_7: 1171831625
+      smb1_scenery_sprites_8: -737503766
+      smb1_scenery_sprites_9: 2128831449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
